@@ -297,3 +297,42 @@
     color: #9e9aab;
   }
 
+     /*   Article  */
+
+  .site-aside {
+    background-image: url('./images/boost.svg');
+    background-repeat: no-repeat;
+    background-position: center;
+    padding-top: 57px;
+    padding-bottom: 57px;
+  }
+
+  .site-aside__wrapper {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+
+  .site-aside__title {
+    font-size: 40px;
+    line-height: 48px;
+    text-align: center;
+    letter-spacing: -1px;
+    color: #fff;
+    margin-top: 0;
+  }
+
+  .site-aside__link {
+    width: 197px;
+    padding-top: 14px;
+    padding-right: 40px;
+    padding-bottom: 12px;
+    padding-left: 40px;
+    background: #2BD0D0;
+    border-radius: 28px;
+    font-size: 20px;
+    line-height: 30px;
+    color: #fff;
+    text-decoration: none;
+  }
+
